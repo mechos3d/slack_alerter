@@ -1,0 +1,5 @@
+#Ignore vim temporary files
+*.sw*
+*~
+tags
+.DS_Store
